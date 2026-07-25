@@ -34,9 +34,9 @@ REM ============================================================
 
 
 
-set "SCRIPT=%~dp0change_detection.py"
+set "SCRIPT=%~dp0src\change_detection.py"
 
-set "CONFIG=%~dp0config.json"
+set "CONFIG=%~dp0src\config.json"
 
 
 
